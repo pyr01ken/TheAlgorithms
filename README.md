@@ -1,6 +1,4 @@
-```python
-print("Some algorithms with python")
-```
+# Some Algorithms With Python
 
 ## Sort 
 - bubble sort
