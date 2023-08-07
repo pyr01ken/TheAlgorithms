@@ -1,0 +1,4 @@
+*.c
+hello
+.vscode
+tests
